@@ -1,3 +1,0 @@
-[submodule "crates/rust-world/rsworld-sys/World"]
-	path = crates/rust-world/rsworld-sys/World
-	url = https://github.com/mmorise/World
